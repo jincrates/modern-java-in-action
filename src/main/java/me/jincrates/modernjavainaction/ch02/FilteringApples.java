@@ -1,4 +1,4 @@
-package me.jincrates.modernjavainaction.chap02;
+package me.jincrates.modernjavainaction.ch02;
 
 import java.util.ArrayList;
 import java.util.Arrays;

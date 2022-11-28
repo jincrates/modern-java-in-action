@@ -1,11 +1,9 @@
-package me.jincrates.modernjavainaction.chap01;
+package me.jincrates.modernjavainaction.ch01;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 public class FilteringApples {
 

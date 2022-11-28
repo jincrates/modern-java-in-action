@@ -1,8 +1,9 @@
-package me.jincrates.modernjavainaction.chap02;
+package me.jincrates.modernjavainaction.ch03;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import me.jincrates.modernjavainaction.ch03.Color;
 
 @Data
 @NoArgsConstructor

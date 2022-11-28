@@ -1,4 +1,4 @@
-package me.jincrates.modernjavainaction.chap01;
+package me.jincrates.modernjavainaction.ch02;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,5 +11,5 @@ public class Apple {
 
     private int weight = 0;
 
-    private String color = "";
+    private Color color;
 }
